@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/mzf11125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mzf11125" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mzf11125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mzf11125" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mzidanfatonie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mzidanfatonie" height="30" width="40" /></a>
-<a href="https://discord.gg/mzf11125#7277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mzf11125#7277" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/491737594074234890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mzf11125#7277" height="30" width="40" /></a>
 <a href="/https://mzf11125.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mzf11125.github.io/" height="30" width="40" /></a>
 </p>
 
