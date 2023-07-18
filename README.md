@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzf11125" alt="mzf11125" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mzidanfatonie" target="blank"><img src="https://img.shields.io/twitter/follow/mzidanfatonie?logo=twitter&style=for-the-badge" alt="mzidanfatonie" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/mzidanfatonie" target="blank"><img src="https://img.shields.io/twitter/follow/mzidanfatonie?logo=twitter&style=for-the-badge" alt="mzidanfatonie" /></a> </p> -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
