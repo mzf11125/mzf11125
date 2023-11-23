@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![39Cg](https://github.com/mzf11125/mzf11125/assets/77999453/9712c6d3-4543-4607-91e5-5e1a8c8d7512)
+
 <h1 align="center">Hello there👋, I'm Muhammad Zidan Fatonie</h1>
 <h3 align="center">A passionate developer from Jakarta, Indonesia</h3>
 
@@ -23,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://twitter.com/mzidanfatonie" target="blank"><img src="https://img.shields.io/twitter/follow/mzidanfatonie?logo=twitter&style=for-the-badge" alt="mzidanfatonie" /></a> </p> -->
 
-### Blogs posts
+<!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
