@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![39Cg](https://github.com/mzf11125/mzf11125/assets/77999453/9712c6d3-4543-4607-91e5-5e1a8c8d7512)
+
 
 <h1 align="center">Hello there👋, I'm Muhammad Zidan Fatonie</h1>
 <h3 align="center">A passionate developer from Jakarta, Indonesia</h3>
