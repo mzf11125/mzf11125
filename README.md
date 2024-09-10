@@ -4,10 +4,6 @@
 <h3 align="center">A passionate developer from Jakarta, Indonesia. Currently building <a href="https://ayojajan.app" target="_blank">Ayo Jajan App</a></h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mzf11125&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://roadmap.sh" target="_blank">
     <img src="https://roadmap.sh/card/tall/66c449c934a9226f383012aa?variant=dark" alt="roadmap.sh" />
   </a>
@@ -121,4 +117,8 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzf11125&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mzf11125&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
