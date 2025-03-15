@@ -1,7 +1,7 @@
 <!-- Muhammad Zidan Fatonie GitHub Profile README -->
 
 <h1 align="center">Hello there 👋, I'm Muhammad Zidan Fatonie</h1>
-<h3 align="center">A passionate developer from Jakarta, Indonesia. Currently building <a href="https://ayojajan.app" target="_blank">Ayo Jajan App</a></h3>
+<h3 align="center">A passionate developer from Jakarta, Indonesia. Currently building <a href="https://ayojajan.app" target="_blank">Ayo Jajan App</a>, <a href="https://fyuse.org" target="_blank">FYUSE</a>, and <a href="https://knowspace.in" target="_blank">Knowspace.in</a></h3>
 
 <p align="center">
   <a href="https://roadmap.sh" target="_blank">
