@@ -122,6 +122,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzf11125&theme=dark" alt="GitHub Streak" />
 </p>
 
+<div align="center">
+  <a href="https://deepwiki.com/mzf11125/LiskIDRXHackathon"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mzf11125&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
