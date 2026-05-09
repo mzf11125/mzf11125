@@ -129,4 +129,8 @@
   <img src="https://komarev.com/ghpvc/?username=mzf11125&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<div align="center">
+
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
+
+</div>
