@@ -110,8 +110,6 @@
   </a>
 </p>
 
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
-
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mzf11125&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
@@ -130,3 +128,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mzf11125&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
