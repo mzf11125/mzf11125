@@ -15,6 +15,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://gitshine.com/wrapped/mzf11125" target="_blank">
+    <img src="https://gitshine.com/api/wrapped-og?username=mzf11125&year=2026" alt="mzf11125's 2026 on GitHub" />
+  </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/muhammadzidanfatonie" target="_blank">
