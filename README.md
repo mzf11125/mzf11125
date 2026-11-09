@@ -3,6 +3,7 @@
 <h1 align="center">Hello there 👋, I'm Muhammad Zidan Fatonie</h1>
 <h3 align="center">A passionate developer from Jakarta, Indonesia. Currently building <a href="https://daemonprotocol.com" target="_blank">Daemon Protocol</a> </h3>
 
+<!-- hidden
 <p align="center">
   <a href="https://roadmap.sh" target="_blank">
     <img src="https://roadmap.sh/card/tall/66c449c934a9226f383012aa?variant=dark" alt="roadmap.sh" />
@@ -14,6 +15,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=mzf11125&theme=darkhub" alt="GitHub Trophies" />
   </a>
 </p>
+-->
 
 <p align="center">
   <a href="https://gitshine.com/wrapped/mzf11125" target="_blank">
@@ -116,6 +118,7 @@
   </a>
 </p>
 
+<!-- hidden
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mzf11125&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
@@ -123,13 +126,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mzf11125&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
+-->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzf11125&theme=dark" alt="GitHub Streak" />
 </p>
 
+<!-- hidden
 <div align="center">
   <a href="https://deepwiki.com/mzf11125/LiskIDRXHackathon"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 </div>
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mzf11125&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
