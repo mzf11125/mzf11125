@@ -1,7 +1,7 @@
 <!-- Muhammad Zidan Fatonie GitHub Profile README -->
 
 <h1 align="center">Hello there 👋, I'm Muhammad Zidan Fatonie</h1>
-<h3 align="center">A passionate developer from Jakarta, Indonesia. Currently building <a href="https://daemonprotocol.com" target="_blank">Daemon Protocol</a> </h3>
+<h3 align="center">A passionate developer from Jakarta, Indonesia. Currently building <a href="https://tawflabs.com" target="_blank">Tawf Labs</a> </h3>
 
 <!-- hidden
 <p align="center">
