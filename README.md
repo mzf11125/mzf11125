@@ -3,6 +3,12 @@
 <h1 align="center">Hello there 👋, I'm Muhammad Zidan Fatonie</h1>
 <h3 align="center">A passionate developer from Jakarta, Indonesia. Currently building <a href="https://tawflabs.com" target="_blank">Tawf Labs</a> </h3>
 
+<p align="center">
+  <a href="https://github.com/yalongwastaken/git-koi" target="_blank">
+    <img src="koi/koi.gif" width="256" alt="My git koi, redrawn every night from my GitHub activity" />
+  </a>
+</p>
+
 <!-- hidden
 <p align="center">
   <a href="https://roadmap.sh" target="_blank">
